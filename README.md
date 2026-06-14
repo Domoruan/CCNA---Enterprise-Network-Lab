@@ -1,6 +1,8 @@
 # CCNA-Enterprise-Network-Lab
 Documentation of completed network designed in packet tracer
 
+Downlaod the .pkt file (Enterprise Segmentation) to access the lab in packet tracer
+
 # Enterprise Network Lab — VLANs, ROAS, DHCP, ACLs
 
 ## Overview
