@@ -6,7 +6,7 @@ Downlaod the .pkt file (Enterprise Segmentation) to access the lab in packet tra
 # Enterprise Network Lab — VLANs, ROAS, DHCP, ACLs
 
 ## Overview
-This project simulates a small enterprise network using Cisco Packet Tracer. The lab includes VLAN segmentation, router-on-a-stick inter-VLAN routing, DHCP pools, trunking, access ports, and extended ACLs to control traffic between VLANs.
+This project simulates a small network using Cisco Packet Tracer. The lab includes VLAN segmentation, router-on-a-stick inter-VLAN routing, DHCP pools, trunking, access ports, and extended ACLs to control traffic between VLANs.
 
 The goal of this lab was to practice real-world network administration tasks including network segmentation, IP addressing, routing, DHCP configuration, access control, and troubleshooting using Cisco IOS commands.
 
